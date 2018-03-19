@@ -311,7 +311,7 @@
 				TargetAttributes = {
 					0E6255D11BDEFF0700DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = AR36AR2PBF;
 						ProvisioningStyle = Manual;
 					};
 					0E6255EA1BDEFF0800DA9AE9 = {
@@ -547,15 +547,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = AR36AR2PBF;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.piratespaceship.Gravity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
-				PROVISIONING_PROFILE_SPECIFIER = "iOS Wildcard In-House";
+				PROVISIONING_PROFILE = "9af7272b-3fa9-46f0-a1ac-374760ff38cc";
+				PROVISIONING_PROFILE_SPECIFIER = "Pirate Spaceship Apps";
 			};
 			name = Debug;
 		};
@@ -563,15 +563,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = AR36AR2PBF;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.piratespaceship.Gravity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
-				PROVISIONING_PROFILE_SPECIFIER = "iOS Wildcard In-House";
+				PROVISIONING_PROFILE = "9af7272b-3fa9-46f0-a1ac-374760ff38cc";
+				PROVISIONING_PROFILE_SPECIFIER = "Pirate Spaceship Apps";
 			};
 			name = Release;
 		};
