@@ -311,7 +311,7 @@
 				TargetAttributes = {
 					0E6255D11BDEFF0700DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Manual;
 					};
 					0E6255EA1BDEFF0800DA9AE9 = {
@@ -545,10 +545,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mobile.center.sample.Gravity;
+				PRODUCT_BUNDLE_IDENTIFIER = v-koand.com.openid.Gravity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
 				PROVISIONING_PROFILE_SPECIFIER = "iOS Wildcard In-House";
@@ -561,10 +561,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mobile.center.sample.Gravity;
+				PRODUCT_BUNDLE_IDENTIFIER = v-koand.com.openid.Gravity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
 				PROVISIONING_PROFILE_SPECIFIER = "iOS Wildcard In-House";
