@@ -311,15 +311,17 @@
 				TargetAttributes = {
 					0E6255D11BDEFF0700DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = 285W24646W;
+						DevelopmentTeam = UBF8T346G9;
 						ProvisioningStyle = Manual;
 					};
 					0E6255EA1BDEFF0800DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = UBF8T346G9;
 						TestTargetID = 0E6255D11BDEFF0700DA9AE9;
 					};
 					0E6255F51BDEFF0800DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = UBF8T346G9;
 						TestTargetID = 0E6255D11BDEFF0700DA9AE9;
 					};
 				};
@@ -544,13 +546,13 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 285W24646W;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.Gravity";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c288c2fb-4c6c-4abb-8909-634c6734e02e";
-				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app Gravity";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 			};
 			name = Debug;
 		};
@@ -559,13 +561,13 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 285W24646W;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.Gravity";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c288c2fb-4c6c-4abb-8909-634c6734e02e";
-				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app Gravity";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 			};
 			name = Release;
 		};
@@ -574,9 +576,10 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = GravityTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.novn.GravityTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.allTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gravity.app/Gravity";
 			};
@@ -587,9 +590,10 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = GravityTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.novn.GravityTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.allTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gravity.app/Gravity";
 			};
@@ -599,9 +603,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = GravityUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.novn.GravityUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.allUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Gravity;
 				USES_XCTRUNNER = YES;
@@ -612,9 +617,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = GravityUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.novn.GravityUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.allUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Gravity;
 				USES_XCTRUNNER = YES;
